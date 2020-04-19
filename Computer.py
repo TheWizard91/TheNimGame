@@ -32,6 +32,7 @@ class ArtificialIntelligence():
     def winningStrategy(self):
         self._goBinary()
         pass
+    # this is now a rest
 if __name__=="__main__":
     ai=ArtificialIntelligence({"A":19,"B":11,"C":1})
     ai._goBinary()
